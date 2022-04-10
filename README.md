@@ -1,46 +1,30 @@
-# <Your-Project-Title>
+# <HoriseonProjectcodeRefactor>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+- The main motivation to work on this project was to take a more hands on approach to learning the different elements of a      webpage and how html and CSS elements work together. In short, I learned which HTML elements are best used for each specific situation and also how to better structure my CSS file so code is easy to view by other programmers. For HTML specifically, I learned more about using semantic elements based on the general structure of a webpage and also making sure that the webpage was accessible beyond the average user. For CSS, I learned that there were multiple ways to clean up and condense the current code into other classes because certain elements did not need to be reused for each section - this also included reordering the CSS code to match the structure of the html file.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Overall, this project was meant to show us a potential assignment a web developer would receieve from the "Horiseon" company and learn what a developer would do to sucessfully complete the task. The main issue the Horiseon company wanted to tackle was cleaning up their code (or refactoring) to where the developer would rewrite the current code to be more concise / easier to read without changing the external behavior or functionality.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This project can be viewed through my reposity on github pages. Here is a link below for reference.
+
+Horiseon code refactor link: https://github.com/Xian404/Horiseon_codeRefactor
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Changes can be viewed by examining code in VS studio 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshot of finished project is attached here!
+![alt text](assets/images/horiseonfrontpage.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Tutorials used for this project linked below:
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+    "Enabling Github Pages: https://youtu.be/P4Mu1t5rIXg
 
-If you followed tutorials, include links to those here as well.
 
-## Features
-
-If your project has a lot of features, list them here.
 
